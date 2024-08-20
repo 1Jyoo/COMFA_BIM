@@ -1,4 +1,3 @@
 # COMFA_BIM
 
-This repository serves as a platform for sharing the system that has been developed based on the research submitted to a journal for review. 
-Once the research is published, the repository will become publicly accessible.
+This is a repository to share the outcome model of the journal paper (From BIM to thermal comfort: Leveraging BIM for rapid outdoor comfort assessments (https://www.sciencedirect.com/science/article/pii/S0378778824007801)). The model predicts outdoor thermal comfort solely based on the BIM model.
